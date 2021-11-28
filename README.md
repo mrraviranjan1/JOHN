@@ -37,7 +37,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - Clone the repository: <br />
 `git clone https://github.com/mrraviranjan1/JOHN.git`
 - Go to the cloned folder: <br />
-`cd Ultroid`
+`cd JOHN`
 - Create a virtual env:   <br />
 `virtualenv -p /usr/bin/python3 venv`
 `. ./venv/bin/activate`
