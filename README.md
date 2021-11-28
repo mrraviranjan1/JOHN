@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/198a8ccfbdf35e3de72a0.png" alt="TeamUltroid Logo">
+  <img src="https://te.legra.ph/file/ac0a57d2362d0e353baa4.jpg" alt="TeamUltroid Logo">
 </p>
 <h1 align="center">
   <b>JOHN - UserBot</b>
@@ -51,8 +51,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
     `bash -c "$(curl -fsSL https://git.io/JY9JI)"`
   - For Termux users:
     `sh -c "$(curl -fsSL https://git.io/JqgsR)"`
-  - For Windows Users:
-    `cd desktop ; wget https://git.io/JY9JI -o ultroid.py ; python ultroid.
+  
 (You can either edit and rename the file or make a new file named `.env`.)
 - Run the bot:
   - Linux Users:
