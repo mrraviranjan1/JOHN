@@ -81,7 +81,7 @@ JHON USERBOT is licensed under [GNU Affero General Public License](https://www.g
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)
 
 # Credits
-* [![Team KARAN BHATIYA](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
+* [![Team KARAN BHATIYA]
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
 
